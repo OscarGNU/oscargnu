@@ -5,11 +5,13 @@
 - 🌱 I am currently learning other languages ​​such as javascript, python and kotlin for android app design.
 
 <div align="center">
-  <a href="https://github.com/OscarGNU">
+  <a href="https://github.com/OscarGNU"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarGNU&&show_icons=true&theme=tokyonight)](https://github.com/OscarGNU/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarGNU&count_private=true&&show_icons=true&theme=tokyonight)
+
+
+
+
 
 ##
 
