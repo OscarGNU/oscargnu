@@ -4,14 +4,16 @@
 # About me Hello! 👋 I'm a junior developer passionate about creating native Android mobile apps. 
 I work mainly with **Kotlin**, the official language for Android development, and I'm constantly learning new technologies to improve my skills and bring value to the projects I may be involved in.
  ## Core skills 🚀 -. 
--**Programming languages:** Kotlin.
--**Native Android development:** Activities, snippets, XML layouts and Jetpack components. 
-- APIs handling:** Retrofit, Volley, and JSON handling. 
-- Local databases:** Room, SQLite. 
-- State management:** ViewModel, LiveData, StateFlow. 
-- User interface:** Material Design, ConstraintLayout. 
-- **Versioning:** GitHub. 
- Objectives 🎯 I am focused on: - Improve my skills in UI development with **Jetpack Compose**. - Explore new architectures such as **MVVM** and **Clean Architecture**. 
+
+- **Programming languages:** Kotlin.
+- **Native Android development:** Activities, snippets, XML layouts and Jetpack components. 
+- **APIs handling:** Retrofit, Volley, and JSON handling. 
+- **Local databases:** Room, SQLite. 
+- **State management:** ViewModel, LiveData, StateFlow. 
+- **User interface:** Material Design, ConstraintLayout. 
+- **Versioning:** GitHub.
+- **Objectives 🎯 I am focused on:** Improve my skills in UI development with **Jetpack Compose**.
+- Explore new architectures such as **MVVM** and **Clean Architecture**. 
 - Contributing to open source projects to learn and collaborate with the community.
 - ## Contact 💬 - **Emai:** [info@oscargnu.com](mailto:info@oscargnu.com)
 - **LinkedIn:** [https://www.linkedin.com/in/oscargnu/] 
