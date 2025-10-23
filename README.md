@@ -1,7 +1,7 @@
 ### Hi, I'm Oscar Zambrano, known as @oscarGNU. 👋
 
 
-# About me Hello! 👋 I'm a junior developer passionate about creating native Android mobile apps. 
+# About me Hello! 👋 I'm a developer passionate about creating native Android mobile apps. 
 I work mainly with **Kotlin**, the official language for Android development, and I'm constantly learning new technologies to improve my skills and bring value to the projects I may be involved in.
  ## Core skills 🚀 -. 
 
